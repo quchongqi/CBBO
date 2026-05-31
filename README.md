@@ -1,4 +1,4 @@
-# DynMeanBO
+# CBBO
 
 Official implementation of **CBBO**, proposed in our paper currently under review at *Machine Learning Journal (MLJ)*:
 
