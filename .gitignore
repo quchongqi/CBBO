@@ -1,0 +1,38 @@
+# Python cache 
+__pycache__/
+*.pyc
+*.pyo
+
+# my test code
+/*.py
+/*.ipynb
+
+# results and datasets
+experiments/final_results
+figures/
+normalized_regret_figures/
+result_hard_N_100/
+result_hard_N_1000/
+result_hard_N_5000/
+result_hard_N_liner/
+result_hard_N_liner_add2000/
+result_hard_N_power/
+result_N_100/
+result_N_1000/
+result_N_5000/
+results_1/
+results_2/
+results_ccbo_liner_add2000/
+results_ccbo_liner_add4000/
+results_comparison/
+simple_regret_figures/
+yahpo_data/
+average_regret_figures/
+average_scores/
+
+# Documnets generated in repository root
+/*.pdf
+/*.xlsx
+/*.txt
+/*.zip
+/*.tar.gz
